@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<cars>
+	<car id="1">
+		<description>Chevrolet</description>
+	</car>
+	<car id="2">
+		<description>Nissan</description>
+	</car>
+	<car id="3">
+		<description>Renault</description>
+	</car>
+	<car id="4">
+		<description>Fiat</description>
+	</car>
+	<car id="5">
+		<description>Hyundai</description>
+	</car>
+</cars>

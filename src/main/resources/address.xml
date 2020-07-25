@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<addresses>
+	<address id="1">
+		<street>Remedios</street>		
+		<number>141</number>
+		<citie id="1">
+			<name>Asuncion</name>
+			<country id="2">
+				<name>Paraguay</name>
+			</country>
+		</citie>
+	</address>
+	<address id="2">
+		<street>Escalade</street>		
+		<number>2113</number>
+		<citie id="2">
+			<name>Corrientes</name>
+			<country id="2">
+				<name>Argentina</name>
+			</country>
+		</citie>
+	</address>
+	<address id="3">
+		<street>Moreno</street>		
+		<number>665</number>
+		<citie id="3">
+			<name>Rome</name>
+			<country id="3">
+				<name>Italy</name>
+			</country>
+		</citie>
+	</address>
+</addresses>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<cars>
+	<car id="1">
+		<chasis_no>885511</chasis_no>
+		<color>Black</color>
+		<year>2019</year>
+		<model id="1">
+			<description>Vento</description>
+			<brand id="2">
+				<description>Nissan</description>
+			</brand>
+		</model>
+	</car>
+	<car id="2">
+		<chasis_no>Versa</chasis_no>
+		<color></color>
+		<year>2020</year>
+		<model id="2">
+			<description>Vectra</description>
+			<brand id="1">
+				<description>Chevrolet</description>
+			</brand>
+		</model>
+	</car>
+	<car id="3">
+		<chasis_no>225588</chasis_no>
+		<color></color>
+		<year>1999</year>
+		<model id="3">
+			<description>Cruze</description>
+			<brand id="1">
+				<description>Chevrolet</description>
+			</brand>
+		</model>
+
+	</car>
+</cars>
